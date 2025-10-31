@@ -25,8 +25,8 @@
 
 <h4 align='left'> 🤝 Get in touch with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/mosllems/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
-<a href="https://www.instagram.com/in/mosllems/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" /></a>
+<a href="https://www.linkedin.com/in/moslem-amiri-3a28ab260/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
+<a href="https://www.instagram.com/mosllems/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" /></a>
 <a href="mailto:moslemamiri82@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" /></a>
 </p>
 
