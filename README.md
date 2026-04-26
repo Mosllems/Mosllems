@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moslem Amiri</h1>
-<h3 align="center">A passionate Backend developer and AI from Iran</h3>
+<h3 align="center">A passionate Backend developer and AI Enthusiast from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosllems&label=Profile%20views&color=0e75b6&style=flat" alt="mosllems" /> </p>
 
