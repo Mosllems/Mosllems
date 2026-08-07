@@ -37,9 +37,3 @@
 
 <br/>
 
-<h4 align='center'> 📊 GitHub Activity & Stats:</h4>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosllems&show_icons=true&bg_color=ffffff&title_color=0e75b6&text_color=333333&icon_color=0e75b6&border_color=0e75b6&hide_border=false" alt="Moslem's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Mosllems&background=ffffff&title=0e75b6&text=333333&icon=0e75b6&ring=0e75b6&fire=0e75b6&border=0e75b6" alt="Moslem's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosllems&layout=compact&bg_color=ffffff&title_color=0e75b6&text_color=333333&border_color=0e75b6" alt="Top Languages" />
-</div>
