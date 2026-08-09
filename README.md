@@ -7,11 +7,7 @@
 
 <br/>
 
-- 💬 Ask me about **Python, Django, REST APIs, or Database Management**
-- 🤖 Integrating AI and automation tools into modern web applications
-- 🌱 Deepening my expertise in Artificial Intelligence and AI-infused software
-- 📫 Connect with me for collaborations on backend and AI-driven solutions!
-
+I am a backend developer specializing in Python, Django, REST APIs, and Database Management. My primary focus is on integrating AI and automation tools into modern web applications to build smarter, more efficient software. Currently, I am dedicated to deepening my expertise in Artificial Intelligence and AI-infused software. I am always open to new challenges; if you are looking to collaborate on backend projects or AI-driven solutions, let's connect!
 <br/>
 
 <h4 align='left'> 💻 Languages, Frameworks & Auth:</h4>
